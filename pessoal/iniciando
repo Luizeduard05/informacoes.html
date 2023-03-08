@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+ <html lang="pt-br">
+     <head>
+        <meta charset="utf-8">
+        <title>Curriculo</title>
+     </head>
+<body>
+ <h1>Luiz Eduardo</h1>    
+ 
+ <h2>Informações pessoais:</h2>
+
+Endereço:Rua Professor Vicente Ferreira Bueno 217,Jardim Campo Belo,Sumaré-SP <br>
+E-mail:le7431474@gmail.com <br>
+Contato:(19)98878-3024 <br>
+Data de nascimento:10/06/2005 <br>
+
+
+
+<div>
+<h2>Objetivo:</h2>
+<ul>
+    <li>Estagio</li>
+    <li>Jovem aprendiz</li>
+    
+</ul>  
+</div>
+
+<ul>
+<h2>Formação academica:</h2>
+<li>Ensino Médio (2020-2022)</li> <br>
+</ul>
+
+<div>
+
+<h2>Habilidades:</h2>
+<ul>
+<li>Trabalho em equipe</li>
+<li>Comunicação</li>
+<li>Protagonismo</li>
+<li>Pontualidade</li>
+<li>Empenho</li>
+
+
+
+</ul>
+
+
+</div>
+</body>
+
+    
+
+
+
+
+
+
+
+</html>
